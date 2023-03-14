@@ -1,0 +1,24 @@
+Comandos git hub
+git --version: versión actualizada de windows
+ls : listar archivos
+mkdir nombre carpeta: crear una carpeta
+pwd conocer la ruta donde estamos parados
+cd  moverse a otras direcciones 
+rm eliminar archivos
+clear limpiar consola
+ls -a muestra archivos ocultos de la carpeta
+ls .git pueda funcionar
+
+configurar 
+git config --global user.name "yibel"
+git config --global user.email "ymrey13@gmail.com"
+
+editor de texto
+nano
+vi
+
+comandos git
+git init 
+git add nombre archivo
+git status
+git add. trae todos los archivos
