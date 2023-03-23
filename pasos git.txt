@@ -1,0 +1,19 @@
+# Pasos para subir archivos desde la consola git 
+1. ls    para visulizar todas las carpetas y archivos que tengo
+2. cd    
+3.ls -a  Muestra todos los archivos y los ocultos
+4. cd nombre carpeta  Para desplazarme al archivo o carpeta que quiero estar
+5. pwd Para conocer en que carpeta me encuentro
+6. Mk dir nombre carpeta  se usa en caso de quiera crear una nueva carpeta
+7. ls  verifico que aparezca la carpeta 
+8. git init 
+9- git add nombre del archivo
+10.git status 
+11.git commit -m "colocar un mensaje para modificar"
+12. git remote and origin link del repositorio
+13.git push -u origin main
+
+#para editar desde la consola 
+se puede con nano
+cd .. volver atras de una carpeta
+: qq para salir 
